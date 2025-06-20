@@ -1,0 +1,8 @@
+scikit-learn==0.23.2
+transformers==4.41.0
+einops==0.7.0
+cython==0.29.13
+nltk==3.5
+numpy==1.20.3
+spacy==3.7.4
+benepar==0.2.0
