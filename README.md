@@ -23,9 +23,8 @@ Prepare dataset with:
 
 `python dataset/preprocess_data.py` and `python dataset/new_perocess_data.py`
 
-The embedding.pt and stoi.pt files can be obtained from 
+The embedding.pt and stoi.pt files can be obtained from [APARN]: https://github.com/THU-BPM/APARN
 
-[APARN]: https://github.com/THU-BPM/APARN
 
 
 
