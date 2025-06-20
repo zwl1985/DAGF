@@ -30,6 +30,6 @@ The `embedding.pt` and `stoi.pt` files can be obtained from [APARN](https://gith
 
 ## Training
 
-To train the DAGFmodel, run:
+To train the DAGF model, run:
 
 `sh run.sh`
